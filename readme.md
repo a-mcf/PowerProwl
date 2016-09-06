@@ -6,7 +6,7 @@ Prowl enables you to send push notifications to iOS devices. More information is
 
 Notifications are sent to Prowl's servers and are subsequently delivered via Apple's Push Notification Service (APNS). The app is $2.99 US (as of this writing) but notifications beyond that are free, making it a very inexpensive alternative to SMS for automated alerting. It's also possible to attach a URL to the notification, which can open a link in a web browser or launch a specific application.
 
-**Note**: PowerProwl hasn't been updated in several years, but the good news is that the API also seems to be relatively unchanged. As far as I know, everything still works. I'll do my best to fix things if they break, but my I'm no longer an iOS user. PR's are accepted.
+>Note: PowerProwl hasn't been updated in several years, but the good news is that the API also seems to be relatively unchanged. As far as I know, everything still works. I'll do my best to fix things if they break, but my I'm no longer an iOS user. PR's are accepted.
 
 ## Use
 
